@@ -1,0 +1,55 @@
+{
+  "schema": "readme-node/v1",
+  "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
+  "name": "z-archived_front-others",
+  "label": "z-archived_front-others",
+  "code": "8.1.2.6",
+  "kind": "repo",
+  "variant": "archived",
+  "description": "Front group e-Others (split from front-projects, #1072)",
+  "visibility": "public",
+  "url": "https://github.com/diegonmarcos/z-archived_front-others",
+  "developer": "Z-archived",
+  "farm": "8.Archived",
+  "breadcrumb": [
+    {
+      "code": "8",
+      "kind": "area",
+      "label": "Archived",
+      "icon": "📦"
+    },
+    {
+      "code": "8.1",
+      "kind": "project",
+      "label": "Z-archived",
+      "icon": "📦"
+    },
+    {
+      "code": "8.1.2",
+      "kind": "family",
+      "label": "Front",
+      "icon": ""
+    }
+  ],
+  "hub": {
+    "name": "z-archived-___",
+    "code": "8.0",
+    "url": "https://github.com/diegonmarcos/z-archived-___"
+  },
+  "base_dir": "git",
+  "members": [],
+  "tree": [
+    "├── 0_deployer (submodule)",
+    "├── 0_hub/",
+    "│   └── z-archived-___ (submodule)",
+    "└── e-Others/",
+    "    └── others/",
+    "        ├── dist/",
+    "        ├── public/",
+    "        └── src/"
+  ],
+  "old_names": [
+    "front-others"
+  ],
+  "history": "Superseded 2026-10-25 (#1196): its projects moved into CG-circus; renamed z-archived_front-others, to be archived on GitHub (owner click)"
+}
